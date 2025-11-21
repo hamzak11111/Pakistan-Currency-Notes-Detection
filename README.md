@@ -22,7 +22,7 @@
 
 ### Inference
 
-# Exmplanation of Results
+# Explanation of Results
 
 ### model predicts all classes correctly with the exception of Rs. 500 and Rs. 50
 
